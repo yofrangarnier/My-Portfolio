@@ -4,7 +4,7 @@ import Links from "./Links";
 const Contact = () => {
   const [form, setForm] = useState({
     email: "",
-    password: "",
+    name: "",
     message: "",
   });
   const handleChange = (e) => {
@@ -25,19 +25,19 @@ const Contact = () => {
             type="email"
             name="email"
             value={form.email}
-            placeholder="email"
+            placeholder="name"
             onChange={handleChange}
             required
             className="border shadow-lg shadow-blue-400 p-6"
           />
         </div>
-        <label className="text-1xl font-bold text-white">Password</label>
+        <label className="text-1xl font-bold text-white">Name</label>
         <div>
           <input
-            type="password"
-            name="password"
-            value={form.password}
-            placeholder="password"
+            type="text"
+            name="name"
+            value={form.name}
+            placeholder="name"
             onChange={handleChange}
             required
             className="border shadow-lg shadow-blue-400 p-6"
