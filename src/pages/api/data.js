@@ -4,7 +4,7 @@ export const projects = [
       id: 1,
       title: "My City Dogs",
       Description:
-        "This project is an individual work that was created for the Henry Bootcamp. It utilizes the DogsApi and uses PostgreSQL as the database. The backend was developed with Node.JS and Express, and the frontend was created with React, Redux, and pure CSS.",
+        "To pass one of the stages of Henry's bootcamp, a SPA was designed. where the Back end was made with Nodejs and Express. The Front end was made with the React framework with Redux and pure Css.",
         image: "/assets/dogs.jpg",
       GitHub: ["https://github.com/yofrangarnier/Dogs-Pi/tree/main/PI-Dogs-main"],
       
@@ -13,7 +13,7 @@ export const projects = [
       id: 2,
       title: "ACMEtronics",
       Description:
-        "This project was an e-commerce platform created as a group effort for the Henry Bootcamp. We created our own information to use as an API and worked with PostgreSQL as the database. The backend was developed with Node.js and Express, and the frontend was created with React, Redux, Bootstrap, and Material UI.",
+        "The objective was to create an E-commerce for the sale of electronic products, a group project to approve Henry's bootcamp, different tools were used to carry out this project in the Back end, technologies such as Nodejs, Express were used. For the database, Sql and Postgress were used and for the Front end, technologies such as React, Redux, Material Ui, Css and Bootstrap were used.",
       image: "/assets/acmetronic.jpg",
       GitHub: [
         "https://github.com/kachamozo/ACMEtronics-back",
