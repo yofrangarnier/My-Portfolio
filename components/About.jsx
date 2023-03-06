@@ -8,7 +8,7 @@ const About = () => {
           About me
         </h1>
         {/* flex items-center justify-center grid gap-5 sm:my-4 shadow-lg border-dashed border-2 border rounded-lg shadow-gray-400 py-6 px-4 */}
-        <div className=" grid gap-5 sm:my-4 shadow-lg border-dashed border-2 border rounded-lg shadow-purple-400 py-6 px-4  ">
+        <div className=" grid gap-5 sm:my-4 shadow-lg border-dashed border rounded-lg shadow-purple-400 py-6 px-4  ">
           <div className="flex items-center justify-center">
             <img
               src="/Assets/logo.jpg"

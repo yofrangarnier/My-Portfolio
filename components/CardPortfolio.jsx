@@ -12,7 +12,7 @@ function Projects() {
           {projects.map((project) => (
             <div
               key={project.id}
-              className="p-6 shadow-lg border-dashed border-2 border rounded-lg shadow-purple-400 bg-center bg-cover"
+              className="p-6 shadow-lg border-dashed border rounded-lg shadow-purple-400 bg-center bg-cover"
             >
               <br />
               <img
