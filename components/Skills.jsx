@@ -6,7 +6,7 @@ const Skills = () => {
       <div className='flex justify-center items-center'>
         <h1 className='text-4xl font-bold shadow-gray-400 text-center p-6 text-white'>Skills</h1>
         </div>
-      <div className='grid grid-cols-3 gap-5 sm:my-4 shadow-lg border-dashed border-2 border rounded-lg shadow-purple-400 py-6 px-4'>
+      <div className='grid grid-cols-3 gap-5 sm:my-4 shadow-lg border-dashed border rounded-lg shadow-purple-400 py-6 px-4'>
         <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width={100} height={100} />
       <p className='text-2xl font-bold text-white'>HTML</p>

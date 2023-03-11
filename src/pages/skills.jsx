@@ -5,7 +5,7 @@ import Skills from '../../components/Skills'
 const skills = () => {
   return (
     <div>
-      <Message heading="Yofran Garnier" message="technology that I know and with which I have worked"/>
+      <Message heading="Yofran Garnier" message="tecnología que conozco y con la que he trabajado"/>
       <Skills/>
     </div>
   )

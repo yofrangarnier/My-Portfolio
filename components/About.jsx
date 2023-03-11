@@ -20,16 +20,16 @@ const About = () => {
           </div>
           <blockquote>
             <p className="text-lg font medium text-white">
-              My name is Yofran, I'm from Venezuela, I am a web developer
-              full-stack and mechanical maintenance engineer. experience in
-              technology like (Reactjs, Redux, Nodejs, Express, Sequelize,
-              Postgress) among other technologies of the sector. Develop an
-              E-Commerce and a SPA where you help Optimize and improve the
-              operation of the app. My experience as a mechanical maintenance
-              engineer has allowed me develop competence, which contribute to
-              development within the Tech industry such as collaborative work or
-              work in work environments, assertive communication, leadership of
-              team, discipline and creativity.
+            Mi nombre es Yofran, soy de Venezuela, soy desarrollador web
+            full-stack e ingeniero mantenimiento mecánico. Con experiencia en
+              tecnología como Reactjs, Redux, Nodejs, Express, Sequelize,
+              Postgreso entre otras tecnologías del sector. Desarrolle un
+              E-Commerce y un SPA donde ayudas a Optimizar y mejorar la
+              funcionamiento de la aplicación. Mi experiencia como ingeniero mantenimiento mecánico
+               me ha permitido desarrollar competencias, que contribuyen a
+              desarrollo dentro de la industria tecnológica, como el trabajo colaborativo o
+              trabajo en ambientes laborales, comunicación asertiva, liderazgo de
+              equipo, disciplina y creatividad.
             </p>
           </blockquote>
         </div>

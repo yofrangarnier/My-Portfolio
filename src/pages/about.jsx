@@ -5,7 +5,7 @@ import Message from '../../components/Message'
 const about = () => {
   return (
     <div>
-      <Message heading="Yofran Garnier" message="scroll down for my story and experience"/>
+      <Message heading="Yofran Garnier" message="Desplácese hacia abajo para ver mi historia y experiencia"/>
       <About/>
     </div>
   )

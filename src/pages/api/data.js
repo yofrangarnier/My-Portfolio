@@ -4,7 +4,7 @@ export const projects = [
       id: 1,
       title: "My City Dogs",
       Description:
-        "To pass one of the stages of Henry's bootcamp, a SPA was designed. where the Back end was made with Nodejs and Express. The Front end was made with the React framework with Redux and pure Css.",
+        "Para pasar una de las etapas del bootcamp de Henry, se diseñó un SPA. donde se realizó el Back end con Nodejs y Express. El Front end se realizó con el framework React con Redux y Css puro.",
         image: "/dogs.jpg",
       GitHub: ["https://github.com/yofrangarnier/Dogs-Pi/tree/main/PI-Dogs-main"],
       
@@ -13,7 +13,7 @@ export const projects = [
       id: 2,
       title: "ACMEtronics",
       Description:
-        "The objective was to create an E-commerce for the sale of electronic products, a group project to approve Henry's bootcamp, different tools were used to carry out this project in the Back end, technologies such as Nodejs, Express were used. For the database, Sql and Postgress were used and for the Front end, technologies such as React, Redux, Material Ui, Css and Bootstrap were used.",
+        "El objetivo fue crear un E-commerce para la venta de productos electrónicos, proyecto grupal para aprobar el bootcamp de Henry, se utilizaron diferentes herramientas para realizar este proyecto en el Back end, se utilizaron tecnologías como Nodejs, Express. Para la base de datos se utilizó Sql y Postgress y para el Front end se utilizaron tecnologías como React, Redux, Material Ui, Css y Bootstrap.",
       image: "/acmetronic.jpg",
       GitHub: [
         "https://github.com/kachamozo/ACMEtronics-back",
